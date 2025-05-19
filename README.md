@@ -75,3 +75,13 @@ Besides tech, I have a strong interest in **art**, which fuels my creativity and
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=solanogrimaldi09@gmail.com)
 
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Vista previa del proyecto">
+</p>
+
+
+
+
+
+
