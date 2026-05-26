@@ -48,7 +48,7 @@ Git, GitHub, Docker, Postman, Expo, Visual Studio Code, SCRUM
 ## Proyectos y formación
 
 **Universidad de Costa Rica:**  
-Bachillerato en Informática Empresarial  
+Bachillerato en Informática Empresarial  - Marzo 2022 - Marzo 2027
 _Formación en programación, desarrollo web y móvil, ingeniería de software, análisis de sistemas, administración de proyectos y bases de datos._
 
 ---
