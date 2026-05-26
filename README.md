@@ -1,87 +1,71 @@
-## 👋 Hi, I'm Grimaldi Solano, @guriSan25
+# Grimaldi Solano — @guriSan25
 
-🎓 I'm a **Software Developer** student currently in the final stages of my degree, passionate about software development, data, and solving real-world problems through technology. I enjoy learning, building, and pushing my skills further with every project I take on.
+## Sobre mí
 
-### 🚀 Technologies & Skills:
-- 💻 **Programming Languages:**  
-  Proficient in **Java**, **JavaScript**, **HTML5**, **CSS**, and **PHP**.  
-  Working knowledge of **Python** for scripting and data analysis.
+Soy desarrolladora de software en la etapa final de mi Bachillerato en Informática Empresarial (UCR). Me especializo en el desarrollo de soluciones web y móviles bajo arquitecturas sólidas y modulares, con experiencia comprobada en proyectos colaborativos y ambientes ágiles. Mi enfoque va más allá del código: busco aportar escalabilidad, optimización y calidad técnica en cada proyecto, manteniendo siempre una comunicación clara y una actitud proactiva para resolver problemas reales.
 
-- 🌐 **Frameworks & Technologies:**  
-  Experience with **Spring Boot** (using **Thymeleaf** for templating), **Laravel**, and **RESTful API** development.
-
-- 🗄️ **Databases:**  
-  Skilled in working with **MySQL**, **SQL Server**, and relational database design. Familiar with tools such as **MySQL Workbench** and **SQL Server Management Studio**.
-
-- ⚙️ **Version Control & Tools:**  
-  Proficient in **Git**, **GitHub**, **Visual Studio Code**.
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin-right: 10px;"/> 
-</p>
-
-### **Frameworks & Libraries:**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px; margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" style="margin-right: 10px;"/> 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="margin-right: 10px;"/>
-</p>
+- **Ubicación:** Guápiles, Limón, Costa Rica
+- **Correo:** solanogrimaldi09@gmail.com
+- **LinkedIn:** [linkedin.com/in/grimaldisolanot](https://linkedin.com/in/grimaldisolanot)
 
 ---
 
-![Grimaldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=guriSan25&show_icons=true&theme=radical)
+## Tecnologías y herramientas
+
+**Lenguajes:**  
+JavaScript (ES6+), TypeScript, Java, C#, Python, SQL
+
+**Front-end:**  
+React, React Native, Vue.js, Angular, HTML5, CSS3, Tailwind CSS, Bootstrap
+
+**Back-end:**  
+.NET, FastAPI, Spring Boot, Laravel, Node.js, REST API
+
+**Bases de datos:**  
+MySQL, SQL Server, PostgreSQL
+
+**Herramientas y workflow:**  
+Git, GitHub, Docker, Postman, Expo, Visual Studio Code, SCRUM
 
 ---
 
+## Experiencia destacada
 
-### 📚 Currently learning:
-- Advanced development with **Spring Boot**
-- Best practices in **REST API** design and security
-- Seamless integration between frontend and backend
-- Diving into the world of **data analysis and visualization**
-- Working with **Python**, SQL, Excel, and **Power BI**
+### Zybus — Sistema de transporte inteligente
+- Responsable del diseño e implementación de módulos frontend en Vue.js y React Native (web y móvil), bajo arquitectura modular, hexagonal y buenas prácticas profesionales.
+- Desarrollo desde la definición de modelos, servicios, vistas, lógica de negocio, hooks (en móvil) y validaciones hasta integración con APIs REST y optimización de rendimiento.
+- Colaboración ágil en equipo de 25+ integrantes con entregas incrementales y control de versiones.
+- [Frontend Web](https://github.com/FallasDev/Zybus-Frontend.git) | [App Móvil](https://github.com/FallasDev/Zybus-AppMovil.git)
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guriSan25&layout=compact&theme=radical)
-
----
-
-### 🌱 About me:
-I'm curious, dedicated, and growth-oriented. I genuinely enjoy what I study and am always looking for ways to improve my skills. I'm passionate about both software development and the strategic power of data in business.
-
-I'm also a bit fluent in **English**, which helps me learn from global resources and communicate effectively in international environments.
-
-Besides tech, I have a strong interest in **art**, which fuels my creativity and allows me to design visually appealing and user-friendly interfaces. In the future, I would love to explore the world of **video game development**, combining my love for programming, storytelling, and design.
-
-### 🎯 My goals:
-- Grow as a full-stack developer  
-- Expand my knowledge and experience in **data analysis**  
-- Dive into the world of **video game development**, blending creativity and code  
-- Continuously learn and build meaningful, real-world solutions
+### SuperLaCentral — Sistema administrativo de supermercado
+- Desarrollo full stack: Angular y .NET para la gestión de inventario, productos y operaciones administrativas.
+- Implementación de endpoints backend .NET, seguridad, autenticación y operaciones CRUD eficientes.
+- Integración completa frontend-backend optimizando la experiencia de usuario y los procesos internos.
+- [Frontend](https://github.com/Day101003/SuperLaCentralFrontend.git) | [Backend](https://github.com/NazarethS06/SuperLaCentralBackend.git)
 
 ---
 
-### 📫 Connect with Me
+## Proyectos y formación
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/grimaldisolanot)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=solanogrimaldi09@gmail.com)
+**Universidad de Costa Rica:**  
+Bachillerato en Informática Empresarial  
+_Formación en programación, desarrollo web y móvil, ingeniería de software, análisis de sistemas, administración de proyectos y bases de datos._
 
+---
 
+## Intereses
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Vista previa del proyecto">
-</p>
+Actualmente sigo ampliando mi conocimiento en:
+- Desarrollo avanzado con Spring Boot, .NET y arquitecturas limpias/modulares
+- Diseño y seguridad de APIs REST
+- Integración frontend-backend y optimización de flujos
+- Análisis y visualización de datos (SQL, Python, Power BI)
 
+Apasionada por la tecnología, la creatividad aplicada y el aprendizaje constante para desarrollar soluciones útiles y eficientes.
 
+---
 
+## Contacto
 
-
-
+- [LinkedIn](https://linkedin.com/in/grimaldisolanot)
+- Correo: solanogrimaldi09@gmail.com
