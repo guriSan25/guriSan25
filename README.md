@@ -5,8 +5,9 @@
 Soy desarrolladora de software en la etapa final de mi Bachillerato en Informática Empresarial (UCR). Me especializo en el desarrollo de soluciones web y móviles bajo arquitecturas sólidas y modulares, con experiencia comprobada en proyectos colaborativos y ambientes ágiles. Mi enfoque va más allá del código: busco aportar escalabilidad, optimización y calidad técnica en cada proyecto, manteniendo siempre una comunicación clara y una actitud proactiva para resolver problemas reales.
 
 - **Ubicación:** Guápiles, Limón, Costa Rica
-- **Correo:** solanogrimaldi09@gmail.com
+- **Portafolio:** [portfolio-grimaldi.pages.dev](https://portfolio-grimaldi.pages.dev)
 - **LinkedIn:** [linkedin.com/in/grimaldisolanot](https://linkedin.com/in/grimaldisolanot)
+- **Correo:** solanogrimaldi09@gmail.com
 
 ---
 
